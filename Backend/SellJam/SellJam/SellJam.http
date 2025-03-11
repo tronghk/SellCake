@@ -1,0 +1,6 @@
+@SellJam_HostAddress = http://localhost:5052
+
+GET {{SellJam_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
