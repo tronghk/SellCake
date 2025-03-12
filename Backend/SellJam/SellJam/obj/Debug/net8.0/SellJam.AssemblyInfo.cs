@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SellJam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff671b6d6b1e31c196ff5d1c9b3da50cadb5beae")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c6338e24d5379e6b46db1ab600da25844c32aa0")]
+>>>>>>> b2f53781dbb3276c99532975b1c7c6641e9c9295
 [assembly: System.Reflection.AssemblyProductAttribute("SellJam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SellJam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

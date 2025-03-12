@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Workspace\\SellJam\\Backend\\SellJam\\",
+  "WorkspaceRootPath": "D:\\Workspace\\SellCake\\Backend\\SellJam\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\data\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\data\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -20,10 +21,17 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|d:\\workspace\\sellcake\\backend\\selljam\\selljam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> b2f53781dbb3276c99532975b1c7c6641e9c9295
       "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\selljam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|d:\\workspace\\sellcake\\backend\\selljam\\selljam\\selljam.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\selljam.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|d:\\workspace\\sellcake\\backend\\selljam\\selljam\\selljam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\selljam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -34,8 +42,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 0,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> b2f53781dbb3276c99532975b1c7c6641e9c9295
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2146146375:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -52,6 +68,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "UserInfor.cs",
               "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Data\\UserInfor.cs",
               "RelativeDocumentMoniker": "SellJam\\Data\\UserInfor.cs",
@@ -73,11 +90,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T01:56:23.245Z",
+=======
+              "Title": "SellJam.http",
+              "DocumentMoniker": "D:\\Workspace\\SellCake\\Backend\\SellJam\\SellJam\\SellJam.http",
+              "RelativeDocumentMoniker": "SellJam\\SellJam.http",
+              "ToolTip": "D:\\Workspace\\SellCake\\Backend\\SellJam\\SellJam\\SellJam.http",
+              "RelativeToolTip": "SellJam\\SellJam.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-11T17:39:54.166Z",
+>>>>>>> b2f53781dbb3276c99532975b1c7c6641e9c9295
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
               "Title": "AccountIdentity.cs",
               "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Data\\AccountIdentity.cs",
               "RelativeDocumentMoniker": "SellJam\\Data\\AccountIdentity.cs",
@@ -93,8 +121,12 @@
               "DocumentIndex": 5,
               "Title": "SellJam.csproj",
               "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\SellJam.csproj",
+=======
+              "Title": "SellJam.csproj",
+              "DocumentMoniker": "D:\\Workspace\\SellCake\\Backend\\SellJam\\SellJam\\SellJam.csproj",
+>>>>>>> b2f53781dbb3276c99532975b1c7c6641e9c9295
               "RelativeDocumentMoniker": "SellJam\\SellJam.csproj",
-              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\SellJam.csproj",
+              "ToolTip": "D:\\Workspace\\SellCake\\Backend\\SellJam\\SellJam\\SellJam.csproj",
               "RelativeToolTip": "SellJam\\SellJam.csproj",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -104,11 +136,15 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\SellCake\\Backend\\SellJam\\SellJam\\Program.cs",
               "RelativeDocumentMoniker": "SellJam\\Program.cs",
-              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Program.cs",
+              "ToolTip": "D:\\Workspace\\SellCake\\Backend\\SellJam\\SellJam\\Program.cs",
               "RelativeToolTip": "SellJam\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+=======
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+>>>>>>> b2f53781dbb3276c99532975b1c7c6641e9c9295
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T16:02:14.697Z",
               "EditorCaption": ""
