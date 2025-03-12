@@ -3,12 +3,116 @@
   "WorkspaceRootPath": "E:\\Workspace\\SellJam\\Backend\\SellJam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\selljam.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\selljam.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Migrations\\20250312024610_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SellJam\\Migrations\\20250312024610_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\selljam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\selljam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\data\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\data\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\data\\userinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\data\\userinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\data\\accountidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\data\\accountidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\model\\imagepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\model\\imagepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\model\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\model\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\service\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\service\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\service\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\service\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\service\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\service\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\service\\iimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\service\\iimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\service\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\service\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\service\\imployment\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\service\\imployment\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\service\\imployment\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\service\\imployment\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\service\\imployment\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\service\\imployment\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\service\\imployment\\imageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\service\\imployment\\imageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\service\\imployment\\emailsenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\service\\imployment\\emailsenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\staticfile\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\staticfile\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\model\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\model\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\model\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\model\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\model\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\model\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|e:\\workspace\\selljam\\backend\\selljam\\selljam\\model\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A7BD9-6924-415D-9B2D-CF8AC2A6F203}|SellJam\\SellJam.csproj|solutionrelative:selljam\\model\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +122,370 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SellJam\\WeatherForecast.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\WeatherForecast.cs",
+              "RelativeToolTip": "SellJam\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:04:13.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SellJam.http",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\SellJam.http",
+              "RelativeDocumentMoniker": "SellJam\\SellJam.http",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\SellJam.http",
+              "RelativeToolTip": "SellJam\\SellJam.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-12T03:04:12.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250312024610_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Migrations\\20250312024610_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SellJam\\Migrations\\20250312024610_InitialCreate.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Migrations\\20250312024610_InitialCreate.cs",
+              "RelativeToolTip": "SellJam\\Migrations\\20250312024610_InitialCreate.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:46:10.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserInfor.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Data\\UserInfor.cs",
+              "RelativeDocumentMoniker": "SellJam\\Data\\UserInfor.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Data\\UserInfor.cs",
+              "RelativeToolTip": "SellJam\\Data\\UserInfor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:56:36.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Data\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "SellJam\\Data\\ApplicationRole.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Data\\ApplicationRole.cs",
+              "RelativeToolTip": "SellJam\\Data\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:56:59.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SellJam",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Program.cs",
+              "RelativeDocumentMoniker": "SellJam\\Program.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Program.cs",
+              "RelativeToolTip": "SellJam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:02:14.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\appsettings.json",
+              "RelativeDocumentMoniker": "SellJam\\appsettings.json",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\appsettings.json",
+              "RelativeToolTip": "SellJam\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T02:14:19.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SellJam\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SellJam\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:56:23.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountIdentity.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Data\\AccountIdentity.cs",
+              "RelativeDocumentMoniker": "SellJam\\Data\\AccountIdentity.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Data\\AccountIdentity.cs",
+              "RelativeToolTip": "SellJam\\Data\\AccountIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:55:35.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Entity\\Customer.cs",
+              "RelativeDocumentMoniker": "SellJam\\Entity\\Customer.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Entity\\Customer.cs",
+              "RelativeToolTip": "SellJam\\Entity\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:10:35.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SellJam.csproj",
               "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\SellJam.csproj",
               "RelativeDocumentMoniker": "SellJam\\SellJam.csproj",
               "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\SellJam.csproj",
               "RelativeToolTip": "SellJam\\SellJam.csproj",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-11T16:25:36.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Program.cs",
-              "RelativeDocumentMoniker": "SellJam\\Program.cs",
-              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Program.cs",
-              "RelativeToolTip": "SellJam\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "ImagePostModel.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Model\\ImagePostModel.cs",
+              "RelativeDocumentMoniker": "SellJam\\Model\\ImagePostModel.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Model\\ImagePostModel.cs",
+              "RelativeToolTip": "SellJam\\Model\\ImagePostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T16:02:14.697Z",
+              "WhenOpened": "2025-03-12T02:21:11.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChangePasswordModel.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Model\\ChangePasswordModel.cs",
+              "RelativeDocumentMoniker": "SellJam\\Model\\ChangePasswordModel.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Model\\ChangePasswordModel.cs",
+              "RelativeToolTip": "SellJam\\Model\\ChangePasswordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:21:02.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUsers.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\IUsers.cs",
+              "RelativeDocumentMoniker": "SellJam\\Service\\IUsers.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\IUsers.cs",
+              "RelativeToolTip": "SellJam\\Service\\IUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:26:08.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IToken.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\IToken.cs",
+              "RelativeDocumentMoniker": "SellJam\\Service\\IToken.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\IToken.cs",
+              "RelativeToolTip": "SellJam\\Service\\IToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:26:07.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRole.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\IRole.cs",
+              "RelativeDocumentMoniker": "SellJam\\Service\\IRole.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\IRole.cs",
+              "RelativeToolTip": "SellJam\\Service\\IRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:26:06.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IImages.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\IImages.cs",
+              "RelativeDocumentMoniker": "SellJam\\Service\\IImages.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\IImages.cs",
+              "RelativeToolTip": "SellJam\\Service\\IImages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:17:08.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "SellJam\\Service\\IEmailSender.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\IEmailSender.cs",
+              "RelativeToolTip": "SellJam\\Service\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:16:55.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\Imployment\\UserServices.cs",
+              "RelativeDocumentMoniker": "SellJam\\Service\\Imployment\\UserServices.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\Imployment\\UserServices.cs",
+              "RelativeToolTip": "SellJam\\Service\\Imployment\\UserServices.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:26:12.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TokenServices.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\Imployment\\TokenServices.cs",
+              "RelativeDocumentMoniker": "SellJam\\Service\\Imployment\\TokenServices.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\Imployment\\TokenServices.cs",
+              "RelativeToolTip": "SellJam\\Service\\Imployment\\TokenServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:26:08.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\Imployment\\RoleService.cs",
+              "RelativeDocumentMoniker": "SellJam\\Service\\Imployment\\RoleService.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\Imployment\\RoleService.cs",
+              "RelativeToolTip": "SellJam\\Service\\Imployment\\RoleService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:22:57.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ImageServices.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\Imployment\\ImageServices.cs",
+              "RelativeDocumentMoniker": "SellJam\\Service\\Imployment\\ImageServices.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\Imployment\\ImageServices.cs",
+              "RelativeToolTip": "SellJam\\Service\\Imployment\\ImageServices.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAALEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:18:41.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmailSenderService.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\Imployment\\EmailSenderService.cs",
+              "RelativeDocumentMoniker": "SellJam\\Service\\Imployment\\EmailSenderService.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Service\\Imployment\\EmailSenderService.cs",
+              "RelativeToolTip": "SellJam\\Service\\Imployment\\EmailSenderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:18:40.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "image.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\StaticFile\\image.cs",
+              "RelativeDocumentMoniker": "SellJam\\StaticFile\\image.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\StaticFile\\image.cs",
+              "RelativeToolTip": "SellJam\\StaticFile\\image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:25:09.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Model\\TokenModel.cs",
+              "RelativeDocumentMoniker": "SellJam\\Model\\TokenModel.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Model\\TokenModel.cs",
+              "RelativeToolTip": "SellJam\\Model\\TokenModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:22:00.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SignUpModel.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Model\\SignUpModel.cs",
+              "RelativeDocumentMoniker": "SellJam\\Model\\SignUpModel.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Model\\SignUpModel.cs",
+              "RelativeToolTip": "SellJam\\Model\\SignUpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:22:01.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SignInModel.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Model\\SignInModel.cs",
+              "RelativeDocumentMoniker": "SellJam\\Model\\SignInModel.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Model\\SignInModel.cs",
+              "RelativeToolTip": "SellJam\\Model\\SignInModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:21:54.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Model\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "SellJam\\Model\\ResponseModel.cs",
+              "ToolTip": "E:\\Workspace\\SellJam\\Backend\\SellJam\\SellJam\\Model\\ResponseModel.cs",
+              "RelativeToolTip": "SellJam\\Model\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:21:47.944Z",
               "EditorCaption": ""
             }
           ]

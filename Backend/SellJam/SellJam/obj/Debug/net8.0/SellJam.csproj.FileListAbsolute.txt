@@ -317,3 +317,4 @@ D:\Workspace\SellCake\Backend\SellJam\SellJam\obj\Debug\net8.0\refint\SellJam.dl
 D:\Workspace\SellCake\Backend\SellJam\SellJam\obj\Debug\net8.0\SellJam.pdb
 D:\Workspace\SellCake\Backend\SellJam\SellJam\obj\Debug\net8.0\SellJam.genruntimeconfig.cache
 D:\Workspace\SellCake\Backend\SellJam\SellJam\obj\Debug\net8.0\ref\SellJam.dll
+E:\Workspace\SellJam\Backend\SellJam\SellJam\obj\Debug\net8.0\SellJam.sourcelink.json
